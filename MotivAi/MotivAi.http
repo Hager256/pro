@@ -1,0 +1,6 @@
+@MotivAi_HostAddress = http://localhost:5117
+
+GET {{MotivAi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
