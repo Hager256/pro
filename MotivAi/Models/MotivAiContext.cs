@@ -22,7 +22,7 @@ public class MotivAiContext : DbContext
     public DbSet<Calendar_Event> Calendar_Events { get; set; }
     public DbSet<Habit> Habits { get; set; }
     public DbSet<Habit_Frequency> Habit_Frequencies { get; set; }
-
+    public DbSet<ChatHistory> ChatHistories { get; set; }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

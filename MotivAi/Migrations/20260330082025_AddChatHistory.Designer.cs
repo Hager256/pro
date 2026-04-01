@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using MotivAi.Models;
 
@@ -11,9 +12,11 @@ using MotivAi.Models;
 namespace MotivAi.Migrations
 {
     [DbContext(typeof(MotivAiContext))]
-    partial class MotivAiContextModelSnapshot : ModelSnapshot
+    [Migration("20260330082025_AddChatHistory")]
+    partial class AddChatHistory
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

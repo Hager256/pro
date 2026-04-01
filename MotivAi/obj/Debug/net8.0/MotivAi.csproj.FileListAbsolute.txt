@@ -160,3 +160,5 @@ C:\Users\A\source\repos\MotivAi\MotivAi\obj\Debug\net8.0\refint\MotivAi.dll
 C:\Users\A\source\repos\MotivAi\MotivAi\obj\Debug\net8.0\MotivAi.pdb
 C:\Users\A\source\repos\MotivAi\MotivAi\obj\Debug\net8.0\MotivAi.genruntimeconfig.cache
 C:\Users\A\source\repos\MotivAi\MotivAi\obj\Debug\net8.0\ref\MotivAi.dll
+C:\Users\A\source\repos\MotivAi\MotivAi\obj\Debug\net8.0\MotivAi.sourcelink.json
+C:\Users\A\source\repos\MotivAi\MotivAi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

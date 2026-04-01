@@ -3,24 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\A\\source\\repos\\MotivAi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|c:\\users\\a\\source\\repos\\motivai\\motivai\\controllers\\predictioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|solutionrelative:motivai\\controllers\\predictioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|c:\\users\\a\\source\\repos\\motivai\\motivai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|solutionrelative:motivai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|c:\\users\\a\\source\\repos\\motivai\\motivai\\dto\\embedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|solutionrelative:motivai\\dto\\embedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|c:\\users\\a\\source\\repos\\motivai\\motivai\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|solutionrelative:motivai\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|c:\\users\\a\\source\\repos\\motivai\\motivai\\models\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|solutionrelative:motivai\\models\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|c:\\users\\a\\source\\repos\\motivai\\motivai\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|solutionrelative:motivai\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|c:\\users\\a\\source\\repos\\motivai\\motivai\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|solutionrelative:motivai\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|c:\\users\\a\\source\\repos\\motivai\\motivai\\migrations\\20260330082025_addchathistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|solutionrelative:motivai\\migrations\\20260330082025_addchathistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|c:\\users\\a\\source\\repos\\motivai\\motivai\\models\\motivaicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|solutionrelative:motivai\\models\\motivaicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|c:\\users\\a\\source\\repos\\motivai\\motivai\\models\\chathistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|solutionrelative:motivai\\models\\chathistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|c:\\users\\a\\source\\repos\\motivai\\motivai\\models\\roadmapmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|solutionrelative:motivai\\models\\roadmapmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|c:\\users\\a\\source\\repos\\motivai\\motivai\\services\\roadmapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|solutionrelative:motivai\\services\\roadmapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|c:\\users\\a\\source\\repos\\motivai\\motivai\\controllers\\roadmapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|solutionrelative:motivai\\controllers\\roadmapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|c:\\users\\a\\source\\repos\\motivai\\motivai\\dto\\textrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|solutionrelative:motivai\\dto\\textrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|c:\\users\\a\\source\\repos\\motivai\\motivai\\services\\thresholdservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|solutionrelative:motivai\\services\\thresholdservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|c:\\users\\a\\source\\repos\\motivai\\motivai\\dto\\embedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|solutionrelative:motivai\\dto\\embedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|c:\\users\\a\\source\\repos\\motivai\\motivai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|solutionrelative:motivai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|c:\\users\\a\\source\\repos\\motivai\\motivai\\controllers\\predictioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|solutionrelative:motivai\\controllers\\predictioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|c:\\users\\a\\source\\repos\\motivai\\motivai\\services\\thresholdservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|solutionrelative:motivai\\services\\thresholdservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{348E6394-93B2-466F-9CD2-17E5381FD29A}|MotivAi\\MotivAi.csproj|c:\\users\\a\\source\\repos\\motivai\\motivai\\services\\onnxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +74,154 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\MotivAi\\MotivAi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MotivAi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\MotivAi\\MotivAi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MotivAi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T09:33:00.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\MotivAi\\MotivAi\\Program.cs",
+              "RelativeDocumentMoniker": "MotivAi\\Program.cs",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\MotivAi\\MotivAi\\Program.cs",
+              "RelativeToolTip": "MotivAi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T12:51:04.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\MotivAi\\MotivAi\\Models\\AuthService.cs",
+              "RelativeDocumentMoniker": "MotivAi\\Models\\AuthService.cs",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\MotivAi\\MotivAi\\Models\\AuthService.cs",
+              "RelativeToolTip": "MotivAi\\Models\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T08:35:03.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\MotivAi\\MotivAi\\appsettings.json",
+              "RelativeDocumentMoniker": "MotivAi\\appsettings.json",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\MotivAi\\MotivAi\\appsettings.json",
+              "RelativeToolTip": "MotivAi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-30T08:33:55.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MotivAiContext.cs",
+              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\MotivAi\\MotivAi\\Models\\MotivAiContext.cs",
+              "RelativeDocumentMoniker": "MotivAi\\Models\\MotivAiContext.cs",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\MotivAi\\MotivAi\\Models\\MotivAiContext.cs",
+              "RelativeToolTip": "MotivAi\\Models\\MotivAiContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvxgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T08:17:26.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChatHistory.cs",
+              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\MotivAi\\MotivAi\\Models\\ChatHistory.cs",
+              "RelativeDocumentMoniker": "MotivAi\\Models\\ChatHistory.cs",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\MotivAi\\MotivAi\\Models\\ChatHistory.cs",
+              "RelativeToolTip": "MotivAi\\Models\\ChatHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T08:15:16.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\MotivAi\\MotivAi\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "MotivAi\\Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\MotivAi\\MotivAi\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "MotivAi\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T08:07:17.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260330082025_AddChatHistory.cs",
+              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\MotivAi\\MotivAi\\Migrations\\20260330082025_AddChatHistory.cs",
+              "RelativeDocumentMoniker": "MotivAi\\Migrations\\20260330082025_AddChatHistory.cs",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\MotivAi\\MotivAi\\Migrations\\20260330082025_AddChatHistory.cs",
+              "RelativeToolTip": "MotivAi\\Migrations\\20260330082025_AddChatHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T08:20:25.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoadmapController.cs",
+              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\MotivAi\\MotivAi\\Controllers\\RoadmapController.cs",
+              "RelativeDocumentMoniker": "MotivAi\\Controllers\\RoadmapController.cs",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\MotivAi\\MotivAi\\Controllers\\RoadmapController.cs",
+              "RelativeToolTip": "MotivAi\\Controllers\\RoadmapController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T14:25:39.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoadmapService.cs",
+              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\MotivAi\\MotivAi\\Services\\RoadmapService.cs",
+              "RelativeDocumentMoniker": "MotivAi\\Services\\RoadmapService.cs",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\MotivAi\\MotivAi\\Services\\RoadmapService.cs",
+              "RelativeToolTip": "MotivAi\\Services\\RoadmapService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T14:24:48.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoadmapModels.cs",
+              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\MotivAi\\MotivAi\\Models\\RoadmapModels.cs",
+              "RelativeDocumentMoniker": "MotivAi\\Models\\RoadmapModels.cs",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\MotivAi\\MotivAi\\Models\\RoadmapModels.cs",
+              "RelativeToolTip": "MotivAi\\Models\\RoadmapModels.cs",
+              "ViewState": "AgIAACMAAAAAnpmZmRkcwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T14:23:55.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "EmbedResponse.cs",
               "DocumentMoniker": "C:\\Users\\A\\source\\repos\\MotivAi\\MotivAi\\Dto\\EmbedResponse.cs",
               "RelativeDocumentMoniker": "MotivAi\\Dto\\EmbedResponse.cs",
@@ -51,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "TextRequest.cs",
               "DocumentMoniker": "C:\\Users\\A\\source\\repos\\MotivAi\\MotivAi\\Dto\\TextRequest.cs",
               "RelativeDocumentMoniker": "MotivAi\\Dto\\TextRequest.cs",
@@ -64,33 +247,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
               "Title": "PredictionController.cs",
               "DocumentMoniker": "C:\\Users\\A\\source\\repos\\MotivAi\\MotivAi\\Controllers\\PredictionController.cs",
               "RelativeDocumentMoniker": "MotivAi\\Controllers\\PredictionController.cs",
               "ToolTip": "C:\\Users\\A\\source\\repos\\MotivAi\\MotivAi\\Controllers\\PredictionController.cs",
               "RelativeToolTip": "MotivAi\\Controllers\\PredictionController.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAMwHEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAzczMzIwvwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T12:51:20.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\MotivAi\\MotivAi\\Program.cs",
-              "RelativeDocumentMoniker": "MotivAi\\Program.cs",
-              "ToolTip": "C:\\Users\\A\\source\\repos\\MotivAi\\MotivAi\\Program.cs",
-              "RelativeToolTip": "MotivAi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T12:51:04.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "ThresholdService.cs",
               "DocumentMoniker": "C:\\Users\\A\\source\\repos\\MotivAi\\MotivAi\\Services\\ThresholdService.cs",
               "RelativeDocumentMoniker": "MotivAi\\Services\\ThresholdService.cs",
@@ -103,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "OnnxService.cs",
               "DocumentMoniker": "C:\\Users\\A\\source\\repos\\MotivAi\\MotivAi\\Services\\OnnxService.cs",
               "RelativeDocumentMoniker": "MotivAi\\Services\\OnnxService.cs",

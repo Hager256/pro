@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MotivAi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cfdbcf3e38b0f02c3217bce2146b43b2c18c395")]
 [assembly: System.Reflection.AssemblyProductAttribute("MotivAi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MotivAi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
